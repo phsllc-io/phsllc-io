@@ -6,7 +6,3 @@
 
 
 Check out our V1 repositories @pinnacle_phs on GitHub!
-<!---
-phsllc-io/phsllc-io is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
